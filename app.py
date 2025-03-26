@@ -1,5 +1,6 @@
 
-
+pip install streamlit
+pip install PyPDF2
 
 
 import streamlit as st
