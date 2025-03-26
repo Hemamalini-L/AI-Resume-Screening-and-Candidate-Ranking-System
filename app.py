@@ -14,9 +14,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 
-!pip install streamlit
+! pip install streamlit
 
-!pip install PyPDF2
+! pip install PyPDF2
 
 def extract_text_from_pdf(file):
     pdf = PdfReader(file)
