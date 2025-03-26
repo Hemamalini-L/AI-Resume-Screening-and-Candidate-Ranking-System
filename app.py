@@ -1,7 +1,6 @@
 
 
-!pip install scikit-learn
-!pip install pandas
+
 
 import streamlit as st
 from PyPDF2 import PdfReader
