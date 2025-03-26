@@ -1,5 +1,5 @@
-!pip install Streamlit
-!pip install PyPDF2
+
+
 !pip install scikit-learn
 !pip install pandas
 
